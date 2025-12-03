@@ -5,4 +5,6 @@ I developed this using the Windows Hello passkeys. So I'm sure that it works wit
 A (removable) FIDO device is currently not working.
 ( anyone interested in sponsoring me a device? @Yubico @token2 )
 
+I just received a YubiKey 5C NFC, thanks [Infinigate](https://www.infinigate.com/nl/), so expect an update to this app soon.
+
 See it in action at [oracleapex.com](https://oracleapex.com/ords/r/excel2collection/demo-for-passkeys)
